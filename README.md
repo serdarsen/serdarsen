@@ -15,7 +15,7 @@ I enrolled in the Meta Front-End Developer Professional Certificate program on C
 #### Talking about Personal Stuffs:
 - 🔭 I'm currently researching how to contribute to Next.js open source project;
 - 🌱 I’m currently learning Next.js, Jest, CSRF, CORS, and HTTP Security headers;
-- 💬 Ask me about I am happy to help;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: serdarsendev@gmail.com;
 
 #### This Week I Spent My Time On:

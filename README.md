@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=serdarsen.serdarsen)
 
-I'm a JavaScript Developer (Frontend | React | Next.js | Node.js) who'd like to join an international team (Remote).
+I'm a Full Stack Developer who enjoys working with React and would like to join a team (Remote).
 
 I'm an experienced, reliable, helpful, and quick learner developer who values writing readable, testable, and maintainable code.
 

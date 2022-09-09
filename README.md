@@ -24,8 +24,8 @@
 
 Getir Market               |Calendar                   |Zip
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/serdarsen/getir_market/main/docs/screenshot.png" /> | <img src="https://raw.githubusercontent.com/serdarsen/react-calendar/main/screenshot.png" /> | <img src="https://raw.githubusercontent.com/serdarsen/react-zip/main/screenshot.png" />
+<a href="https://github.com/serdarsen/getir_market"><img src="https://raw.githubusercontent.com/serdarsen/getir_market/main/docs/screenshot.png" /></a> | <a href="https://github.com/serdarsen/react-calendar"><img src="https://raw.githubusercontent.com/serdarsen/react-calendar/main/screenshot.png" /></a> | <a href="https://github.com/serdarsen/react-zip"><img src="https://raw.githubusercontent.com/serdarsen/react-zip/main/screenshot.png" /></a>
 
 Todo                       |GPT-3                      |Table
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/serdarsen/react-todo/main/screenshot.png" /> | <img src="https://raw.githubusercontent.com/serdarsen/project_modern_ui_ux_gpt3/main/screenshot.png" /> | <img src="https://raw.githubusercontent.com/serdarsen/react-table-demo/main/screenshot.png" />
+<a href="https://github.com/serdarsen/react-todo"><img src="https://raw.githubusercontent.com/serdarsen/react-todo/main/screenshot.png" /></a> | <a href="https://github.com/serdarsen/project_modern_ui_ux_gpt3"><img src="https://raw.githubusercontent.com/serdarsen/project_modern_ui_ux_gpt3/main/screenshot.png" /></a> | <a href="https://github.com/serdarsen/react-table-demo"><img src="https://raw.githubusercontent.com/serdarsen/react-table-demo/main/screenshot.png" /></a>

@@ -5,11 +5,6 @@
 ### Glad to see you here! &nbsp; 
 ![](https://visitor-badge.glitch.me/badge?page_id=serdarsen.serdarsen)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serdarsen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarsen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
 - 🌱 I'm a Full Stack Developer who enjoys working with React and would like to join a team (Remote).
 
 - 🌱 I'm an experienced, reliable, helpful, and quick learner developer who values writing readable, testable, and maintainable code.
@@ -20,7 +15,7 @@
 
 - 🔭 I'm currently researching how to contribute to Next.js and other open source projects;
 
-### Some of My Projects 
+### Some of My Projects
 
 Getir Market               |Calendar                   |Zip
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -29,3 +24,8 @@ Getir Market               |Calendar                   |Zip
 Todo                       |GPT-3                      |Table
 :-------------------------:|:-------------------------:|:-------------------------:
 <a href="https://github.com/serdarsen/react-todo"><img src="https://raw.githubusercontent.com/serdarsen/react-todo/main/screenshot.png" /></a> | <a href="https://github.com/serdarsen/project_modern_ui_ux_gpt3"><img src="https://raw.githubusercontent.com/serdarsen/project_modern_ui_ux_gpt3/main/screenshot.png" /></a> | <a href="https://github.com/serdarsen/react-table-demo"><img src="https://raw.githubusercontent.com/serdarsen/react-table-demo/main/screenshot.png" /></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=serdarsen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarsen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+
+
+

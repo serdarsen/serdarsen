@@ -19,3 +19,63 @@
 - 🌱 I’m currently learning Next.js, Jest, CSRF, CORS, and HTTP Security headers, Webpack loaders;
 
 - 🔭 I'm currently researching how to contribute to Next.js and other open source projects;
+
+### Some of My Projects; 
+
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap");
+
+.image-view {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(6.5em, 14em));
+    gap: 0.6em;
+    cursor: pointer;
+}
+
+.image-view__title {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+</style>
+
+<div class="image-view">
+     <div>
+          <h4 class="image-view__title">Getir Market</h4>
+          <img 
+            src="https://raw.githubusercontent.com/serdarsen/getir_market/main/docs/screenshot.png" 
+          />
+     </div>
+     <div>
+          <h4 class="image-view__title">Calendar</h4>
+          <img 
+            src="https://raw.githubusercontent.com/serdarsen/react-calendar/main/screenshot.png" 
+          />
+     </div>
+     <div>
+          <h4 class="image-view__title">Zip</h4>
+          <img 
+            src="https://raw.githubusercontent.com/serdarsen/react-zip/main/screenshot.png" 
+          />
+     </div>
+     <div>
+          <h4 class="image-view__title">Todo</h4>
+          <img 
+           src="https://raw.githubusercontent.com/serdarsen/react-todo/main/screenshot.png" 
+          />
+     </div>
+     <div>
+          <h4 class="image-view__title">GPT-3</h4>
+          <img 
+           src="https://raw.githubusercontent.com/serdarsen/project_modern_ui_ux_gpt3/main/screenshot.png" 
+          />
+     </div>
+     <div>
+          <h4 class="image-view__title">Table</h4>
+          <img 
+           src="https://raw.githubusercontent.com/serdarsen/react-table-demo/main/screenshot.png" 
+          />
+     </div>
+</div>

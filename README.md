@@ -2,4 +2,5 @@
 
 Full Stack Developer creating precise, detail-oriented products through collaboration and meeting your requirements
 
-Check out my [↗ portfolio](https://www.serdarsen.com/) and  [↗ resume](https://cv.serdarsen.com/)
+Check out my <a href="https://www.serdarsen.com/" target="_blank">↗ portfolio</a> and <a href="https://cv.serdarsen.com/" target="_blank">↗ resume</a>
+
